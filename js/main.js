@@ -23,4 +23,3 @@ if (story == 'b') {
 if (story == 'c') {
     document.write('Jackson chose his ' + adjective + ' , ' + colour + ' '+creature + ' card and ' + verbed + ' it to the table knowing he won.');
   }
-  
